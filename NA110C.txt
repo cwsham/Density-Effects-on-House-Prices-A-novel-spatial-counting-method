@@ -1,0 +1,866 @@
+Option:500
+Creating object for properties
+Creating cluster (region size:500m)
+Reading file: ./rawfiles/dataset.csv
+Total number of properties read:588773
+Counting:Title:Type:Land Value:Improvement Value:Total:Commercial buildings:Industrial Buildings:Residential buildings:Apartments:Houses:Retails:Offices:Educational:Buildings:State Houses
+Information for property:NA110C/473
+Residential building:House:2157:378/149:2275k:200k
+Residential building:House:5402:NA130B/609:1075k:225k
+Residential building:House:17892:112317:1220k:205k
+Commercial building:Residential building:House:22813:611405:320k:210k
+Residential building:House:30633:NA49D/653:540k:280k
+Residential building:House:30896:39B/236:950k:110k
+Residential building:House:46131:NA729/88:1925k:75k
+Residential building:House:51797:1307/27:1650k:125k
+Residential building:House:86129:NA23C/856:620k:360k
+Commercial building:Residential building:House:113226:611404:475k:105k
+Residential building:House:118218:NA63A/1155:1250k:350k
+Residential building:House:155449:210/43:2500k:850k
+Residential building:House:155580:NA809/75:1650k:625k
+Residential building:House:169596:NA841/18:2000k:75k
+Residential building:House:188107:890842:690k:250k
+Residential building:House:192291:NA1307/28:1925k:75k
+Residential building:House:193023:93C/474:620k:200k
+Residential building:House:229612:445950:1500k:625k
+Residential building:House:230476:445951:1220k:605k
+Residential building:House:247686:113C/173:1280k:245k
+Residential building:House:259536:615951:1000k:1200k
+Residential building:House:267561:23C/855:600k:170k
+Residential building:House:270235:NA110A/386:920k:505k
+Residential building:House:283724:NA492/131:2000k:200k
+Residential building:House:289363:NA39B/238:950k:90k
+Residential building:House:298161:46482:1240k:160k
+Residential building:House:304030:377/131:2350k:350k
+Residential building:House:305497:611402:320k:240k
+Residential building:House:314278:615952:1150k:350k
+Residential building:House:320110:NA1623/77:1400k:150k
+Residential building:House:330461:100C/154:550k:280k
+Residential building:House:350902:NA83B/405:1150k:625k
+Residential building:House:352634:39B/237:950k:110k
+Residential building:House:353171:NA110A/388:920k:505k
+Residential building:House:378299:NA110A/387:960k:465k
+Residential building:394101:NA437/152:2250k:50k
+Residential building:House:399342:112318:1450k:650k
+Residential building:House:413243:890841:490k:450k
+Residential building:House:420249:49D/654:590k:230k
+Residential building:House:444904:NA94D/49:860k:490k
+Residential building:House:454251:113C/174:1260k:390k
+Residential building:House:463980:93C/473:600k:220k
+Commercial building:Residential building:House:481962:611403:320k:210k
+Residential building:House:495796:111C/75:1725k:525k
+Residential building:House:497876:890840:1140k:260k
+Residential building:House:515582:NA49D/655:630k:230k
+Commercial building:Residential building:House:530019:26B/1035:2475k:650k
+Residential building:House:539787:39B/235:1020k:100k
+Residential building:House:553001:100C/155:610k:220k
+Residential building:House:560204:111C/76:1320k:255k
+Residential building:House:566274:210/114:2500k:775k
+Residential building:House:573858:NA112B/219:1360k:640k
+Residential building:House:581945:76451:1080k:180k
+Residential building:House:231:NA55C/708:395k:285k
+Residential building:House:19485:NA103C/182:900k:400k
+Industrial building:21095:NA71B/885:700k:1550k
+Residential building:House:27889:152232:1025k:425k
+Residential building:House:35505:248098:810k:890k
+Residential building:House:40289:NA104B/993:940k:410k
+Residential building:House:45976:NA97B/667:860k:190k
+Residential building:House:52237:NA97B/669:720k:330k
+Residential building:House:79483:912576:860k:915k
+Industrial building:83081:71B/887:650k:1125k
+Residential building:103484:NA71B/892:350k:570k
+Industrial building:126413:71B/886:550k:1475k
+Residential building:House:126774:300514:810k:715k
+Residential building:House:128774:NA97B/668:860k:240k
+Industrial building:160187:NA330/286:1825k:650k
+Industrial building:164404:NA71B/883:460k:780k
+Residential building:House:168213:NA118D/757:1075k:425k
+Residential building:House:170051:NA55C/704:395k:285k
+Residential building:House:181880:NA55C/711:395k:325k
+Industrial building:183222:71B/884:1040k:1510k
+Industrial building:183514:71B/879:540k:1310k
+Residential building:House:185287:NA55C/702:395k:285k
+Residential building:House:186107:NA55C/705:395k:285k
+Residential building:House:200823:NA114D/515:860k:440k
+Residential building:House:205794:NA101D/827:6900k:150k
+Residential building:House:216937:300513:810k:890k
+Residential building:House:219145:NA113B/485:860k:640k
+Residential building:House:222038:NA55C/710:395k:325k
+Residential building:House:227942:NA55C/717:395k:285k
+Residential building:House:232789:NA106A/80:1100k:225k
+Residential building:House:240855:NA92A/671:700k:300k
+Residential building:House:242217:NA41A/1076:2175k:975k
+Commercial building:Residential building:House:244197:NA106C/117:2475k:75k
+Residential building:House:247902:NA55C/703:395k:285k
+Residential building:House:253579:NA77B/719:2650k:1800k
+Residential building:House:258031:152231:1250k:450k
+Residential building:House:266526:NA113B/484:830k:545k
+Industrial building:269082:71B/889:550k:875k
+Residential building:House:271838:NA55C/706:395k:285k
+Residential building:House:273066:646404:860k:490k
+Residential building:House:276157:NA55C/716:395k:285k
+Residential building:285365:NA915/278:2050k:50k
+Industrial building:297483:71B/881:790k:1285k
+Residential building:House:299640:NA55C/719:395k:285k
+Residential building:House:308900:NA92A/666:720k:330k
+Residential building:House:310087:NA103C/180:960k:390k
+Residential building:House:317142:NA107D/895:1625k:75k
+Industrial building:317545:NA71B/894:420k:940k
+Residential building:House:319546:NA97B/666:810k:190k
+Residential building:House:320694:273252:810k:715k
+Residential building:House:323017:273253:810k:890k
+Residential building:House:333859:NA112C/958:1075k:425k
+Residential building:House:336928:NA104B/992:940k:360k
+Residential building:House:337494:NA97B/670:720k:330k
+Residential building:House:365489:NA778/252:1825k:75k
+Industrial building:365657:71B/893:420k:860k
+Residential building:House:379152:NA106C/115:960k:615k
+Industrial building:384938:NA53A/143:5900k:3900k
+Residential building:House:386444:273254:810k:715k
+Residential building:House:387639:646406:960k:390k
+Residential building:House:390579:NA103C/178:900k:400k
+Residential building:House:399135:NA55C/715:395k:285k
+Residential building:House:402311:NA106A/81:900k:625k
+Residential building:405349:NA875/216:2175k:50k
+Residential building:House:405497:NA101A/326:1900k:200k
+Residential building:House:411748:NA55C/721:395k:325k
+Residential building:House:414131:NA113C/737:1125k:350k
+Residential building:House:419147:NA92A/670:700k:300k
+Residential building:House:419544:NA103C/183:900k:500k
+Residential building:House:429561:NA103C/179:900k:400k
+Residential building:House:431844:NA55C/707:395k:285k
+Residential building:House:432576:NA55C/718:395k:285k
+Industrial building:447555:71B/882:460k:780k
+Residential building:House:449756:NA101A/325:1275k:700k
+Residential building:House:452283:NA97B/672:810k:340k
+Residential building:House:453523:NA103C/181:900k:400k
+Residential building:House:456682:912577:820k:955k
+Residential building:House:460163:NA778/254:1825k:375k
+Residential building:House:462760:NA112C/959:1000k:400k
+Industrial building:464619:71B/891:350k:440k
+Residential building:House:473882:NA55C/713:395k:285k
+Residential building:House:479640:646405:860k:390k
+Residential building:481967:NA778/253:1850k:50k
+Residential building:House:484464:NA55C/714:395k:285k
+Residential building:House:487990:NA77B/718:1225k:250k
+Residential building:House:496692:NA55C/712:395k:285k
+Industrial building:514127:71B/888:550k:975k
+Residential building:House:535891:NA92A/674:860k:190k
+Industrial building:551124:71B/890:940k:1635k
+Residential building:House:552203:NA92A/667:720k:330k
+Residential building:554004:86C/182:5300k:1800k
+Residential building:House:557523:912578:820k:955k
+Industrial building:558704:71B/880:770k:1230k
+Residential building:House:564385:NA106C/116:920k:405k
+Residential building:House:576856:NA97B/671:740k:310k
+Residential building:House:577106:NA92A/672:700k:300k
+Residential building:House:578594:NA92A/673:700k:350k
+Residential building:House:579089:NA55C/720:395k:325k
+Residential building:House:582302:NA55C/709:395k:285k
+Residential building:House:584780:NA101A/327:1250k:175k
+Residential building:House:3500:NA18B/905:755k:225k
+Residential building:House:3930:59C/384:610k:240k
+Residential building:House:5864:NA104B/2:690k:300k
+Residential building:House:7006:5B/1472:1575k:125k
+Residential building:House:10001:945959:1700k:200k
+Residential building:House:11280:NA81B/291:640k:585k
+Residential building:House:13554:NA4D/1325:635k:195k
+Commercial building:Residential building:House:13667:NA110C/514:730k:320k
+Residential building:House:14521:59A/438:590k:220k
+Residential building:House:19147:135B/469:1220k:305k
+Residential building:House:19809:NA130D/274:405k:395k
+Residential building:House:20051:53A/517:560k:140k
+Residential building:House:20112:NA83B/361:730k:495k
+Residential building:House:23068:NA110C/504:730k:470k
+Commercial building:Residential building:House:25025:NA114B/789:320k:35k
+Residential building:Apartment:25196:NA120D/879:170k:280k
+Residential building:25675:391/172:1950k:75k
+Residential building:House:32559:65A/496:960k:715k
+Residential building:House:33144:NA46C/474:730k:320k
+Residential building:House:33849:629229:1250k:1400k
+Residential building:House:34065:NA103D/994:690k:300k
+Residential building:House:36804:468718:275k:535k
+Commercial building:Residential building:House:39346:NA110C/525:730k:320k
+Residential building:House:41031:126B/672:1100k:500k
+Commercial building:Residential building:House:41896:NA114B/771:305k:60k
+Residential building:Apartment:42404:NA120D/946:170k:280k
+Residential building:Apartment:43627:NA125B/841:190k:255k
+Residential building:Apartment:43973:NA120D/919:275k:475k
+Residential building:House:44808:NA106C/551:325k:850k
+Residential building:House:45335:65A/356:510k:370k
+Residential building:House:46588:NA19A/1101:795k:205k
+Residential building:House:49385:114B/576:830k:140k
+Residential building:House:49897:445953:1300k:625k
+Residential building:House:50444:116340:650k:320k
+Residential building:House:51967:NA116C/411:1075k:450k
+Residential building:House:54329:NA110C/501:730k:470k
+Residential building:Apartment:54778:NA120D/914:395k:625k
+Residential building:House:54937:NA4B/1141:1280k:120k
+Residential building:Apartment:57755:NA120D/922:275k:475k
+Commercial building:Residential building:House:58285:466713:730k:270k
+Residential building:House:59545:NA93C/711:640k:260k
+Residential building:House:60560:NA107A/897:770k:455k
+Residential building:House:61094:NA11A/101:690k:180k
+Residential building:Apartment:62030:NA120D/883:170k:280k
+Residential building:House:62889:25A/1054:680k:230k
+Residential building:House:64246:NA106C/552:690k:750k
+Residential building:House:64665:NA87B/213:780k:200k
+Residential building:House:68967:341839:1000k:825k
+Residential building:House:74519:48D/469:520k:260k
+Residential building:House:75952:392858:930k:170k
+Residential building:Apartment:76823:NA120D/925:275k:475k
+Residential building:House:77001:NA18B/906:755k:225k
+Commercial building:Residential building:House:78444:NA110C/518:730k:320k
+Residential building:House:79085:NA138B/1000:1100k:175k
+Residential building:House:79810:NA122B/146:1080k:200k
+Commercial building:Residential building:House:80035:NA114B/777:305k:60k
+Residential building:Apartment:80450:NA120D/936:170k:280k
+Residential building:House:80468:48D/471:520k:260k
+Commercial building:Residential building:House:81763:NA114B/794:320k:35k
+Residential building:House:81877:1004888:610k:300k
+Residential building:House:84065:NA104B/14:640k:310k
+Commercial building:Residential building:House:84159:639/121:3500k:150k
+Residential building:Apartment:84949:NA120D/873:275k:475k
+Residential building:House:84985:NA65A/354:510k:260k
+Commercial building:Residential building:House:85949:NA123A/143:12000k:100k
+Residential building:Apartment:87445:NA120D/900:190k:255k
+Residential building:House:88272:NA12B/1434:650k:270k
+Residential building:House:90294:48D/473:550k:230k
+Commercial building:Residential building:House:90976:NA128D/981:480k:150k
+Commercial building:Residential building:House:93487:NA110C/507:730k:320k
+Residential building:House:98119:NA112B/218:2350k:625k
+Residential building:Apartment:99521:NA120D/927:190k:260k
+Residential building:House:99700:1153/22:1600k:125k
+Residential building:Apartment:99729:NA120D/885:395k:605k
+Residential building:House:100000:13D/1218:1080k:140k
+Residential building:House:100986:NA47A/1203:635k:185k
+Commercial building:Residential building:House:101607:NA114B/782:320k:35k
+Residential building:House:102494:NA58A/941:650k:525k
+Residential building:Apartment:102550:NA120D/880:170k:280k
+Residential building:House:103011:NA5C/427:1825k:100k
+Residential building:House:105046:NA106C/547:595k:805k
+Commercial building:Residential building:House:108753:NA114B/776:305k:60k
+Residential building:House:109067:NA35A/237:495k:255k
+Residential building:Apartment:109908:NA125B/843:190k:255k
+Commercial building:Residential building:House:110142:NA20C/295:1600k:25k
+Residential building:House:110182:NA108A/340:900k:180k
+Commercial building:Residential building:House:110203:NA105B/963:730k:270k
+Commercial building:Residential building:House:111124:NA110C/523:730k:295k
+Residential building:House:112136:NA110C/516:730k:545k
+Residential building:House:114927:36C/92:1475k:75k
+Commercial building:Residential building:House:115309:NA114B/780:320k:35k
+Residential building:Apartment:115782:NA125B/846:170k:280k
+Residential building:Apartment:116904:NA125B/845:190k:255k
+Commercial building:Residential building:House:117860:NA114B/792:320k:35k
+Residential building:House:118768:114B/577:810k:170k
+Residential building:House:119413:NA94D/619:1400k:300k
+Residential building:House:119716:NA17A/1238:690k:220k
+Residential building:House:120771:428275:820k:180k
+Residential building:House:120811:NA130D/264:405k:395k
+Residential building:House:121928:41B/231:560k:300k
+Residential building:123310:NA957/154:1800k:25k
+Residential building:House:123484:41B/235:610k:260k
+Residential building:House:124059:NA18B/907:755k:225k
+Residential building:House:124596:NA130D/275:405k:375k
+Residential building:House:124766:60C/461:960k:260k
+Residential building:House:125281:4B/1142:1280k:145k
+Residential building:House:125414:NA103D/991:690k:250k
+Residential building:Apartment:125703:NA120D/876:170k:280k
+Residential building:House:127283:65A/355:510k:330k
+Residential building:House:128307:164081:720k:555k
+Residential building:Apartment:128984:NA120D/878:275k:475k
+Residential building:House:129466:468717:275k:535k
+Residential building:House:129661:139B/15:1240k:160k
+Residential building:House:133234:468722:275k:535k
+Residential building:House:133255:NA62D/846:820k:180k
+Commercial building:Residential building:House:133682:NA110C/529:730k:70k
+Residential building:135497:NA896/146:2575k:25k
+Commercial building:Office:136979:125B/837:340k:250k
+Residential building:House:138972:NA86C/771:1340k:135k
+Commercial building:Office:139615:53A/199:16750k:8250k
+Commercial building:141203:82A/262:1180k:60k
+Commercial building:Residential building:House:142027:NA105B/981:730k:345k
+Residential building:House:145041:NA7D/27:635k:195k
+Residential building:House:145716:NA10B/1124:690k:250k
+Residential building:House:146386:NA31A/1267:765k:175k
+Residential building:House:148882:2022/5:1700k:650k
+Residential building:House:150362:NA12D/164:665k:175k
+Residential building:House:152441:1004885:610k:300k
+Residential building:House:154147:NA104B/10:680k:280k
+Residential building:154388:764620:1000k:0k
+Residential building:Apartment:154916:NA120D/890:170k:280k
+Residential building:House:155171:1151/64:1400k:75k
+Residential building:House:155568:61B/238:1220k:120k
+Residential building:House:156541:NA103D/997:690k:300k
+Commercial building:Residential building:House:157010:NA114B/793:320k:35k
+Residential building:House:158618:NA11D/141:650k:270k
+Residential building:House:159387:53A/515:580k:120k
+Residential building:House:159974:49B/965:1650k:400k
+Residential building:House:161322:NA78A/430:770k:230k
+Residential building:House:162568:116339:885k:215k
+Residential building:Apartment:166712:NA120D/926:275k:475k
+Commercial building:Education building:168461:NA739/67:3125k:925k
+Residential building:House:169102:94A/110:1425k:175k
+Residential building:House:172701:NA122B/147:1080k:200k
+Residential building:House:174617:NA30A/950:885k:115k
+Residential building:House:176220:NA104B/17:680k:290k
+Residential building:House:177494:113B/643:900k:180k
+Residential building:House:177804:NA106C/550:690k:750k
+Residential building:House:178210:NA128B/414:610k:490k
+Residential building:House:178736:NA26D/900:660k:340k
+Residential building:House:179432:NA11A/170:690k:220k
+Residential building:House:179791:NA17A/1355:690k:360k
+Commercial building:Residential building:House:180373:NA114B/778:300k:40k
+Residential building:House:180493:NA114B/575:860k:180k
+Residential building:House:181237:NA60C/942:1280k:220k
+Residential building:House:181652:NA106C/554:650k:790k
+Residential building:House:184650:NA106C/548:580k:790k
+Residential building:House:184979:NA135B/470:1240k:310k
+Residential building:Apartment:185780:NA120D/945:170k:280k
+Residential building:House:187110:667888:1200k:225k
+Commercial building:Residential building:House:187564:856086:1300k:20k
+Residential building:House:188383:NA80D/178:640k:535k
+Residential building:House:188723:445952:1180k:595k
+Residential building:188809:NA1514/28:2075k:50k
+Residential building:House:188881:60C/941:1300k:125k
+Commercial building:Residential building:House:188890:NA114B/787:320k:35k
+Commercial building:Residential building:House:190417:NA110C/502:730k:260k
+Residential building:House:192641:NA59C/383:600k:220k
+Residential building:House:192877:NA104B/16:680k:345k
+Residential building:Apartment:193599:NA125B/838:170k:280k
+Residential building:House:194074:NA93C/712:610k:210k
+Residential building:House:194292:1004887:610k:300k
+Residential building:House:196690:NA104B/5:690k:300k
+Commercial building:Residential building:House:199777:NA114B/783:320k:35k
+Residential building:House:200508:NA130D/284:405k:395k
+Residential building:House:202671:34A/936:690k:140k
+Residential building:House:204788:NA92D/441:1000k:250k
+Residential building:Apartment:205931:NA120D/905:190k:255k
+Residential building:House:206485:122B/597:530k:320k
+Residential building:House:208829:84D/438:600k:160k
+Residential building:Apartment:213586:NA120D/884:144k:306k
+Residential building:House:215201:432451:1020k:630k
+Residential building:House:217202:NA130D/270:405k:395k
+Residential building:House:217329:NA110C/517:730k:545k
+Residential building:House:217856:49B/966:2025k:200k
+Commercial building:Office:220932:230402:3475k:6125k
+Residential building:House:Public House:221284:212912:890k:235k
+Residential building:House:221748:392857:910k:665k
+Residential building:House:224639:1004891:650k:260k
+Residential building:House:226022:NA103D/998:690k:300k
+Residential building:House:226164:NA99D/645:700k:525k
+Residential building:House:226694:NA92D/485:700k:500k
+Residential building:Apartment:228009:NA125B/842:190k:255k
+Residential building:House:228528:NA80A/981:1060k:200k
+Commercial building:Residential building:House:229755:NA110C/513:730k:320k
+Residential building:House:229898:NA115D/243:1160k:240k
+Residential building:House:230087:NA12D/642:650k:270k
+Residential building:Apartment:230349:NA120D/935:170k:280k
+Residential building:House:230671:NA26D/195:715k:225k
+Residential building:Apartment:231605:NA120D/906:325k:535k
+Residential building:Apartment:231783:NA120D/898:265k:485k
+Residential building:House:233288:629228:2325k:125k
+Residential building:House:233768:25A/1051:650k:260k
+Residential building:House:234209:NA104B/19:680k:290k
+Residential building:House:234376:1004889:610k:310k
+Residential building:House:239290:147609:730k:570k
+Commercial building:Residential building:House:241129:644470:730k:270k
+Residential building:House:242379:25A/1055:550k:230k
+Residential building:House:243185:764621:960k:390k
+Residential building:House:243194:NA79C/600:730k:720k
+Residential building:House:244103:NA103D/992:690k:300k
+Residential building:House:250428:13D/1219:1475k:150k
+Residential building:House:250623:NA823/174:3350k:50k
+Residential building:House:251127:25A/1053:680k:230k
+Residential building:House:251189:NA13D/412:665k:255k
+Commercial building:Residential building:House:252865:NA110C/528:730k:270k
+Residential building:House:254059:NA19A/1102:780k:220k
+Residential building:House:254685:NA72C/816:1320k:155k
+Residential building:House:255470:NA21D/944:690k:250k
+Residential building:Apartment:256478:NA125B/840:190k:255k
+Residential building:House:257746:41B/232:610k:250k
+Residential building:House:258286:61B/237:1220k:120k
+Residential building:Apartment:262721:NA125B/848:170k:280k
+Residential building:Apartment:263598:NA120D/942:395k:585k
+Residential building:House:264324:NA104B/11:680k:280k
+Residential building:House:264466:NA130D/267:405k:385k
+Residential building:House:264824:468720:275k:535k
+Residential building:House:265083:NA127B/950:930k:230k
+Residential building:Apartment:266797:NA120D/895:265k:485k
+Residential building:Apartment:267831:NA120D/916:170k:280k
+Residential building:Apartment:268304:NA120D/881:170k:280k
+Residential building:House:271311:NA106C/546:620k:765k
+Commercial building:Residential building:House:271525:NA114B/773:305k:60k
+Residential building:House:271624:103B/595:1100k:140k
+Residential building:Apartment:272127:NA120D/913:395k:605k
+Residential building:House:272140:87C/566:900k:120k
+Residential building:House:273213:212864:920k:480k
+Residential building:House:274980:NA104B/13:680k:280k
+Residential building:House:275074:41B/236:610k:260k
+Residential building:House:275214:147608:710k:590k
+Residential building:House:276023:103D/101:1100k:140k
+Residential building:House:276331:NA21A/1342:670k:330k
+Residential building:Apartment:277582:NA120D/934:275k:475k
+Residential building:House:277663:NA130D/273:405k:385k
+Residential building:House:278622:119C/148:1220k:160k
+Residential building:House:280658:127B/951:960k:300k
+Residential building:House:283226:341838:890k:190k
+Commercial building:Residential building:House:287176:NA110C/505:730k:345k
+Residential building:House:289037:113B/644:900k:180k
+Residential building:House:290403:90B/518:860k:140k
+Residential building:House:292681:NA130D/279:405k:395k
+Commercial building:Residential building:House:293574:NA114B/795:320k:35k
+Commercial building:Residential building:House:293920:NA110C/522:730k:270k
+Commercial building:Residential building:House:294089:NA110C/508:730k:295k
+Residential building:House:295888:NA1398/81:1500k:175k
+Residential building:House:297488:139B/16:1200k:180k
+Residential building:House:299902:NA59C/886:1120k:140k
+Residential building:House:300526:NA87C/437:1100k:725k
+Residential building:House:301553:NA5B/916:795k:175k
+Residential building:House:302306:NA103D/989:690k:335k
+Residential building:Apartment:303360:NA120D/924:170k:280k
+Residential building:House:303952:NA932/30:1325k:75k
+Residential building:House:307505:41B/234:610k:260k
+Residential building:House:312905:NA106C/545:730k:710k
+Commercial building:Residential building:House:313942:NA114B/786:320k:35k
+Residential building:Apartment:316244:NA120D/893:265k:485k
+Residential building:Apartment:317309:NA120D/933:275k:475k
+Residential building:House:318803:NA130D/266:405k:395k
+Residential building:House:321273:NA104B/7:690k:300k
+Residential building:House:321473:NA18B/910:755k:225k
+Residential building:House:322698:NA15B/259:665k:255k
+Residential building:House:323669:99B/150:1060k:260k
+Residential building:House:324362:53A/518:710k:350k
+Residential building:Apartment:325411:NA120D/931:190k:260k
+Residential building:House:326457:629230:1250k:125k
+Residential building:House:330149:NA57B/1117:1300k:175k
+Residential building:House:330436:62A/664:820k:130k
+Residential building:House:331181:86C/770:1360k:190k
+Residential building:House:332028:62C/468:990k:130k
+Residential building:House:334973:NA17A/1237:665k:255k
+Residential building:House:335080:84D/437:950k:210k
+Residential building:House:335561:NA54C/1222:765k:175k
+Residential building:House:337363:67C/116:1180k:120k
+Residential building:House:338014:NA106C/555:825k:855k
+Residential building:House:338344:NA107A/899:700k:500k
+Residential building:House:338745:NA54D/339:845k:155k
+Residential building:House:341568:NA31C/1271:755k:225k
+Residential building:House:344916:NA130D/272:405k:395k
+Residential building:House:346344:NA1648/10:1525k:125k
+Residential building:House:346422:61B/1105:1040k:140k
+Residential building:House:348008:NA106C/553:755k:785k
+Residential building:House:348142:NA130D/276:405k:375k
+Residential building:House:348299:51C/123:690k:140k
+Residential building:House:349657:NA102B/641:770k:230k
+Commercial building:Residential building:House:351853:NA114B/772:305k:60k
+Residential building:House:351978:NA130D/269:405k:385k
+Residential building:House:351999:NA17A/1236:690k:180k
+Residential building:House:352130:41B/233:610k:250k
+Residential building:House:356665:NA75C/928:1160k:200k
+Residential building:House:358275:NA14B/678:665k:255k
+Residential building:Apartment:359311:NA120D/929:170k:280k
+Residential building:House:359663:53A/516:560k:140k
+Residential building:Apartment:360556:NA120D/907:265k:485k
+Commercial building:Residential building:House:361391:1127/215:1925k:225k
+Residential building:House:364486:NA38A/217:795k:205k
+Residential building:House:365749:NA116C/410:960k:390k
+Residential building:Apartment:366208:NA120D/871:275k:475k
+Residential building:House:366650:NA50D/494:755k:175k
+Residential building:House:366792:NA130D/283:405k:395k
+Residential building:House:367166:NA7B/898:765k:175k
+Residential building:Apartment:367177:NA125B/849:170k:280k
+Residential building:House:368186:477438:930k:270k
+Residential building:House:368261:NA130D/278:405k:385k
+Commercial building:Residential building:House:368268:NA128D/984:480k:150k
+Residential building:House:368804:62D/845:820k:180k
+Residential building:Apartment:369061:NA120D/899:265k:485k
+Residential building:House:369161:119C/587:1280k:495k
+Residential building:House:369573:NA55A/1355:715k:205k
+Commercial building:Residential building:House:375010:NA114B/770:325k:60k
+Residential building:House:375586:164082:865k:505k
+Residential building:House:376716:77A/41:1320k:105k
+Residential building:House:378917:NA34A/934:770k:270k
+Residential building:House:381578:NA98A/528:1040k:180k
+Residential building:Apartment:382419:NA120D/915:170k:280k
+Residential building:House:384633:NA110C/524:730k:495k
+Residential building:House:387946:NA103D/996:690k:300k
+Commercial building:Residential building:House:388674:NA128D/985:480k:150k
+Residential building:House:392348:NA98A/529:1020k:160k
+Commercial building:Residential building:House:392392:NA128D/982:480k:150k
+Residential building:House:393171:88A/413:1280k:170k
+Residential building:House:393380:62C/469:1020k:120k
+Residential building:Apartment:393408:NA125B/844:190k:255k
+Commercial building:393807:90A/318:7200k:600k
+Residential building:House:393924:48D/470:520k:270k
+Residential building:House:394635:NA59B/181:650k:525k
+Residential building:House:395364:NA130D/280:405k:395k
+Residential building:House:397705:1004883:625k:300k
+Residential building:House:398813:NA87C/567:900k:120k
+Residential building:House:399738:NA83C/950:1000k:175k
+Commercial building:Residential building:House:399995:NA110C/512:730k:295k
+Residential building:House:400249:NA130D/282:405k:395k
+Residential building:House:403631:59A/439:660k:180k
+Residential building:House:406365:NA104B/1:690k:300k
+Residential building:House:407088:629231:960k:940k
+Residential building:Apartment:407312:NA120D/917:170k:280k
+Residential building:House:407614:45828:745k:555k
+Residential building:House:408020:51C/122:530k:300k
+Commercial building:Residential building:House:408126:NA114B/779:320k:30k
+Residential building:408328:61B/8:10600k:800k
+Residential building:House:408806:15A/418:3200k:150k
+Commercial building:Residential building:House:411218:NA110C/506:730k:260k
+Residential building:House:411622:1004890:650k:260k
+Residential building:House:411736:NA9A/1263:690k:220k
+Residential building:House:414419:NA5D/1406:715k:225k
+Residential building:House:415335:NA128B/415:490k:330k
+Residential building:House:415398:NA110C/511:730k:395k
+Residential building:House:415499:NA104B/18:680k:290k
+Residential building:Apartment:416782:NA125B/850:170k:280k
+Commercial building:Office:416967:164579:2675k:1625k
+Residential building:House:418242:NA85D/529:530k:330k
+Residential building:House:419235:NA16A/582:690k:220k
+Residential building:House:419631:1004886:610k:300k
+Commercial building:Residential building:House:419817:NA110C/515:730k:320k
+Residential building:House:420511:NA107A/898:700k:500k
+Residential building:Apartment:420600:NA120D/875:170k:280k
+Residential building:House:421161:113B/664:1320k:255k
+Residential building:House:421780:34A/935:650k:180k
+Residential building:House:421954:1123/29:1950k:225k
+Residential building:Apartment:422067:NA120D/892:265k:395k
+Residential building:Apartment:422087:NA120D/941:395k:605k
+Commercial building:Residential building:House:422311:NA114B/788:320k:35k
+Residential building:House:422413:57B/1116:1260k:120k
+Residential building:House:422790:NA926/194:1325k:75k
+Residential building:House:423211:NA60A/302:650k:525k
+Residential building:Apartment:423776:NA125B/847:170k:280k
+Residential building:House:425777:NA85D/530:550k:310k
+Residential building:House:426778:NA50D/495:715k:225k
+Residential building:House:428412:115D/244:1160k:265k
+Residential building:Apartment:428746:NA120D/921:275k:475k
+Residential building:House:431910:NA130D/265:405k:385k
+Residential building:House:432848:578030:495k:305k
+Residential building:House:434244:75D/998:1475k:200k
+Residential building:House:435860:856087:1040k:300k
+Residential building:House:435873:NA60D/965:765k:205k
+Residential building:House:437785:NA72A/65:1600k:500k
+Residential building:Apartment:438527:NA120D/943:170k:280k
+Residential building:House:438967:NA90B/519:1300k:125k
+Residential building:House:439185:NA103D/999:690k:300k
+Residential building:Apartment:443635:NA120D/903:190k:255k
+Residential building:Apartment:443846:NA120D/908:190k:255k
+Commercial building:Residential building:House:445332:NA114B/791:320k:35k
+Residential building:House:445711:NA104B/8:690k:300k
+Residential building:House:447319:NA110C/519:730k:495k
+Commercial building:Residential building:House:448334:NA114B/781:320k:35k
+Residential building:House:448544:NA110C/520:730k:495k
+Commercial building:Residential building:House:449382:NA128D/983:480k:150k
+Residential building:House:450603:NA99B/149:1060k:140k
+Commercial building:Residential building:House:455389:NA110C/527:760k:150k
+Residential building:456267:NA65D/860:1525k:25k
+Residential building:House:459301:60C/463:760k:200k
+Commercial building:Residential building:House:463524:NA105B/970:730k:295k
+Commercial building:Residential building:House:463841:NA114B/774:300k:40k
+Residential building:Apartment:464057:NA120D/891:170k:280k
+Residential building:House:464617:170859:1450k:475k
+Commercial building:Residential building:House:465050:NA114B/775:300k:40k
+Residential building:Apartment:465951:NA120D/920:275k:475k
+Residential building:House:469471:78A/707:1060k:120k
+Residential building:House:469478:326064:1575k:475k
+Residential building:House:472436:NA104B/3:690k:300k
+Residential building:House:472794:NA130D/277:405k:395k
+Residential building:Apartment:475120:NA120D/918:170k:280k
+Residential building:House:475269:25A/1052:680k:230k
+Residential building:House:476814:48D/468:540k:240k
+Residential building:House:477521:NA87B/212:860k:365k
+Residential building:House:479796:NA11A/230:650k:270k
+Residential building:Apartment:480117:NA120D/897:170k:280k
+Residential building:House:481321:NA62D/844:820k:150k
+Commercial building:Residential building:House:481741:NA114B/785:320k:35k
+Residential building:House:483833:41B/237:570k:300k
+Residential building:House:484681:368419:1320k:655k
+Residential building:House:485637:NA104B/12:680k:280k
+Residential building:Apartment:489660:NA120D/877:275k:475k
+Residential building:House:489914:84D/439:690k:130k
+Residential building:House:491020:45829:1150k:175k
+Residential building:Apartment:493712:NA120D/874:275k:475k
+Commercial building:Residential building:House:495318:NA128D/980:480k:150k
+Residential building:House:495924:119C/149:1140k:310k
+Residential building:House:497053:NA62C/388:1100k:250k
+Residential building:House:497433:NA106C/549:690k:850k
+Residential building:House:498734:NA18D/1415:690k:250k
+Residential building:House:499772:NA17B/1086:690k:170k
+Residential building:House:500029:468721:275k:535k
+Residential building:Apartment:500489:NA120D/923:190k:260k
+Residential building:House:504900:NA131C/396:550k:475k
+Residential building:Apartment:508395:NA120D/928:170k:280k
+Residential building:House:509562:NA135A/269:1300k:100k
+Residential building:House:509924:NA103D/990:690k:310k
+Residential building:House:510078:122B/598:630k:410k
+Residential building:House:510633:NA93C/713:720k:110k
+Residential building:House:511792:NA48D/472:590k:230k
+Residential building:House:512448:NA49A/1141:765k:175k
+Residential building:House:514054:119C/586:1850k:450k
+Residential building:Apartment:514077:NA120D/944:170k:280k
+Commercial building:Residential building:House:514078:466712:730k:260k
+Residential building:House:515525:NA1819/12:3700k:0k
+Residential building:House:515655:NA10B/981:690k:310k
+Residential building:House:517515:NA21D/945:690k:310k
+Residential building:House:517523:NA104B/15:680k:345k
+Residential building:House:517780:NA75C/134:650k:525k
+Residential building:Apartment:518134:NA120D/886:275k:475k
+Residential building:House:520844:NA104B/9:680k:280k
+Residential building:House:521343:NA92B/488:635k:275k
+Residential building:House:521476:36C/93:1500k:200k
+Residential building:House:523252:1004884:610k:300k
+Residential building:House:523606:17B/620:1700k:600k
+Residential building:House:523804:NA103D/993:690k:300k
+Residential building:House:525043:NA14B/968:860k:140k
+Residential building:House:525270:NA24C/1069:715k:335k
+Commercial building:Residential building:House:531777:NA1398/83:1525k:75k
+Residential building:House:533681:NA76A/879:770k:355k
+Residential building:House:535792:65A/497:930k:190k
+Residential building:House:535982:432450:1080k:180k
+Residential building:Apartment:537963:NA120D/887:170k:280k
+Residential building:Apartment:538004:NA120D/896:190k:390k
+Residential building:Apartment:538618:NA120D/894:265k:485k
+Commercial building:Office:538725:230401:3500k:4900k
+Residential building:House:539578:51C/124:690k:140k
+Residential building:House:540658:NA10A/194:635k:185k
+Residential building:House:541170:NA82A/263:1160k:390k
+Residential building:House:542235:NA10D/322:635k:185k
+Residential building:House:542261:715073:760k:415k
+Residential building:House:545170:NA1378/13:1650k:100k
+Residential building:House:546782:NA130D/268:405k:395k
+Residential building:House:549229:NA104B/21:680k:290k
+Commercial building:Residential building:House:552764:NA110C/509:730k:270k
+Residential building:House:552953:132A/513:1220k:230k
+Residential building:House:553362:468719:275k:535k
+Residential building:Apartment:553727:NA120D/882:170k:280k
+Commercial building:Residential building:House:555834:NA114B/790:320k:35k
+Residential building:House:556551:NA10A/540:635k:105k
+Commercial building:Residential building:House:556886:NA110C/526:760k:150k
+Residential building:House:557512:NA8B/648:1900k:250k
+Commercial building:Residential building:House:558694:NA115C/945:665k:255k
+Residential building:Apartment:559065:NA120D/872:275k:465k
+Residential building:House:559337:NA12D/57:690k:250k
+Residential building:House:Public House:560206:212913:810k:420k
+Residential building:House:560637:212865:860k:940k
+Residential building:House:561190:NA130D/281:405k:385k
+Residential building:Apartment:562570:NA120D/901:190k:255k
+Residential building:Apartment:563507:NA125B/839:170k:280k
+Residential building:House:564453:NA104B/4:690k:270k
+Residential building:House:564691:NA130D/271:405k:385k
+Residential building:House:570627:60C/462:760k:200k
+Commercial building:Residential building:House:572683:NA114B/784:320k:35k
+Residential building:House:573852:NA103D/995:690k:300k
+Residential building:House:574198:51C/125:630k:200k
+Residential building:House:574333:NA112A/475:690k:300k
+Residential building:House:575199:NA103D/1000:690k:300k
+Residential building:House:575601:NA10A/402:690k:180k
+Residential building:House:577995:NA104B/20:680k:290k
+Residential building:House:578247:NA967/93:1650k:100k
+Residential building:House:579383:NA18B/908:755k:225k
+Residential building:House:579510:NA18B/909:755k:225k
+Residential building:House:580532:368418:1700k:425k
+Residential building:House:582634:NA1503/88:1300k:240k
+Residential building:Apartment:584603:NA120D/930:170k:280k
+Residential building:House:944:566777:550k:310k
+Commercial building:Residential building:House:7774:NA110C/481:730k:240k
+Residential building:House:12512:338206:680k:460k
+Commercial building:Residential building:House:15677:NA110C/484:730k:345k
+Industrial building:17957:NA61B/787:890k:1460k
+Residential building:House:23618:757816:865k:735k
+Residential building:House:28568:NA30D/1297:365k:145k
+Residential building:House:31673:417093:850k:425k
+Commercial building:Residential building:House:32007:NA110C/495:730k:345k
+Residential building:House:32335:NA114C/412:525k:385k
+Commercial building:Residential building:House:34690:NA105B/940:730k:445k
+Residential building:House:34783:NA30D/1293:365k:145k
+Residential building:House:37437:NA130C/610:850k:375k
+Residential building:House:39182:250406:675k:515k
+Residential building:House:44774:NA110C/478:730k:430k
+Commercial building:Residential building:House:45135:NA110C/486:730k:345k
+Commercial building:Residential building:House:51724:NA110C/465:730k:180k
+Residential building:House:52807:NA30D/1301:365k:145k
+Residential building:House:54152:NA7D/158:430k:280k
+Industrial building:57864:NA93D/677:12250k:26750k
+Residential building:House:59499:NA30D/1300:365k:145k
+Residential building:House:60957:NA38D/1178:580k:370k
+Commercial building:Residential building:House:61086:NA110C/479:730k:215k
+Residential building:House:64230:250949:730k:515k
+Residential building:House:67666:NA107B/37:760k:440k
+Residential building:House:75312:NA30D/1295:365k:145k
+Residential building:House:78141:NA67D/160:430k:280k
+Residential building:House:83015:765515:365k:395k
+Residential building:83581:NA119D/837:1710k:50k
+Residential building:House:87927:250407:810k:265k
+Industrial building:88644:61B/788:890k:1460k
+Residential building:House:89386:NA67D/155:430k:280k
+Commercial building:Residential building:House:91091:NA110C/490:730k:260k
+Residential building:House:103234:NA1196/52:1235k:230k
+Commercial building:Residential building:House:103476:546559:550k:135k
+Residential building:House:104330:NA74D/184:600k:390k
+Residential building:House:108995:NA110C/468:730k:400k
+Residential building:House:111592:807995:850k:340k
+Residential building:House:112233:NA50A/1351:405k:285k
+Industrial building:113867:1107/228:910k:1390k
+Residential building:House:116483:NA30D/1302:365k:145k
+Residential building:House:123613:NA83D/253:650k:500k
+Residential building:House:126550:NA110C/472:730k:445k
+Residential building:House:128874:NA30D/1299:365k:145k
+Residential building:House:130097:NA37D/133:570k:270k
+Residential building:House:138506:807996:1150k:530k
+Residential building:House:140072:NA73A/468:730k:250k
+Residential building:House:153426:NA37D/134:570k:270k
+Residential building:House:154391:NA66A/771:495k:335k
+Residential building:House:157027:441267:795k:505k
+Industrial building:158856:101A/334:4350k:1650k
+Industrial building:159510:NA23C/936:2300k:3800k
+Residential building:House:161449:NA110C/485:730k:545k
+Commercial building:Residential building:House:161664:320030:550k:135k
+Residential building:House:164854:NA30D/1298:365k:145k
+Residential building:House:166659:765518:365k:395k
+Residential building:House:175370:441266:850k:300k
+Residential building:House:176483:NA110A/675:470k:655k
+Residential building:House:182733:NA50A/1353:395k:395k
+Residential building:House:186918:NA92B/215:730k:420k
+Commercial building:Residential building:House:188060:NA110C/491:730k:260k
+Residential building:House:189566:NA113C/542:670k:430k
+Residential building:House:191222:320031:550k:500k
+Residential building:House:191604:NA106B/794:680k:345k
+Industrial building:192394:NA939/88:1550k:4150k
+Commercial building:Residential building:House:Public House:197294:NA723/227:4305k:50k
+Commercial building:Residential building:House:Public House:199188:NA109D/83:710k:290k
+Commercial building:203415:120C/320:52000k:178000k
+Residential building:House:209574:NA67D/157:455k:285k
+Residential building:House:211963:NA86A/65:600k:500k
+Industrial building:212039:17D/1329:890k:1160k
+Residential building:House:217167:NA81C/905:770k:455k
+Residential building:House:217527:NA110C/469:730k:440k
+Residential building:House:226078:NA66A/774:520k:430k
+Residential building:House:228229:765519:365k:395k
+Industrial building:232396:1109/2:890k:1010k
+Residential building:House:235313:NA114C/411:620k:390k
+238487:109B/340:530k:0k
+Commercial building:Residential building:House:240796:604284:550k:205k
+Residential building:House:243322:NA68A/591:760k:390k
+Residential building:House:243821:NA110A/631:670k:480k
+Residential building:House:244570:NA100D/657:790k:385k
+Residential building:House:252454:477437:755k:475k
+Industrial building:259016:22B/1222:1525k:2025k
+Residential building:House:266011:493263:825k:405k
+Residential building:House:269413:320032:550k:500k
+Residential building:House:271575:NA66A/773:535k:375k
+Commercial building:Residential building:House:Public House:280365:NA109D/84:700k:290k
+Residential building:House:283931:NA73A/275:610k:515k
+Residential building:House:284998:NA16B/906:850k:100k
+Industrial building:289415:3B/451:890k:1885k
+Residential building:House:297855:NA97C/701:790k:385k
+Residential building:House:Public House:300082:NA65A/211:4305k:195k
+Commercial building:Residential building:House:303054:NA110C/496:730k:345k
+Commercial building:Residential building:House:303239:824375:730k:200k
+Residential building:House:306277:493264:810k:520k
+Commercial building:Office:307857:1007819:12000k:16500k
+Commercial building:Residential building:House:307943:NA110C/489:730k:345k
+Residential building:House:312096:NA66A/772:535k:375k
+Residential building:House:316977:NA114C/406:525k:385k
+Commercial building:Residential building:House:Public House:327911:NA109D/86:700k:290k
+Residential building:House:Public House:331259:NA123B/170:795k:410k
+Residential building:House:333810:NA83D/252:640k:330k
+Residential building:House:335120:NA16B/905:850k:275k
+Residential building:House:338617:527899:790k:435k
+Residential building:House:339694:232741:730k:570k
+Residential building:House:341296:493265:825k:505k
+Residential building:House:341635:NA67D/156:430k:280k
+Commercial building:Residential building:House:345427:320029:550k:220k
+Residential building:House:347955:NA113C/357:670k:405k
+Residential building:House:348517:NA114C/409:540k:400k
+Commercial building:Residential building:House:353093:NA114C/410:660k:180k
+Residential building:House:354001:NA81C/906:770k:330k
+Commercial building:Residential building:House:355591:671030:540k:320k
+Commercial building:Residential building:House:359965:NA110C/480:730k:200k
+Residential building:House:359975:566775:730k:95k
+Residential building:House:363142:566776:730k:250k
+Commercial building:Residential building:House:363401:NA110C/483:730k:345k
+Commercial building:Residential building:House:365096:NA110C/466:730k:240k
+Residential building:House:367905:NA918/64:1755k:645k
+Residential building:House:368067:NA30D/1292:365k:145k
+Residential building:House:372394:NA110C/475:730k:390k
+Industrial building:379298:53B/1079:550k:450k
+Commercial building:Residential building:House:379500:NA110C/494:730k:395k
+Residential building:House:380601:671031:470k:530k
+Residential building:House:383085:NA100D/658:600k:400k
+Residential building:House:385532:NA106B/795:680k:345k
+Residential building:House:386544:NA24C/1274:1155k:345k
+Commercial building:Residential building:House:390462:NA110C/487:730k:345k
+Residential building:House:394098:NA67D/161:430k:280k
+Residential building:House:396464:NA130C/611:850k:400k
+Residential building:House:404880:338204:660k:375k
+Residential building:House:409426:566778:550k:310k
+Industrial building:412104:1197/70:990k:760k
+Industrial building:419194:3A/1125:890k:635k
+Residential building:House:426016:NA30D/1296:365k:145k
+Commercial building:Residential building:House:429127:604283:550k:195k
+Residential building:House:432242:320034:550k:525k
+Industrial building:433385:65A/209:11000k:10500k
+Residential building:House:435555:NA106B/796:680k:345k
+Residential building:House:436229:NA106B/797:680k:345k
+Commercial building:Residential building:House:437159:320033:550k:520k
+Residential building:House:438576:NA74D/185:600k:390k
+Residential building:House:440089:NA1144/30:1300k:350k
+Residential building:House:443709:NA138A/541:610k:380k
+Industrial building:444098:23C/935:1500k:1750k
+Residential building:House:445180:NA113C/543:580k:410k
+Residential building:House:445996:NA110C/471:730k:440k
+Commercial building:Residential building:House:451628:338207:1200k:320k
+Residential building:House:452551:550860:590k:485k
+Industrial building:452962:3A/1215:890k:1585k
+Residential building:House:453575:722175:1070k:560k
+Residential building:House:455294:NA110A/632:570k:300k
+Residential building:House:457043:NA66A/770:535k:375k
+Residential building:House:459960:370556:690k:375k
+Commercial building:Residential building:House:460933:NA110C/488:730k:345k
+Residential building:House:472829:NA128D/542:550k:360k
+Residential building:House:472960:765520:365k:395k
+Residential building:House:Public House:475799:NA109D/87:710k:365k
+Residential building:House:475991:NA106D/826:960k:240k
+Residential building:House:477877:NA110C/473:730k:485k
+Residential building:House:478628:391004:730k:425k
+Residential building:House:482156:250950:950k:25k
+Residential building:House:482217:NA30D/1294:365k:145k
+Residential building:House:483288:910670:770k:480k
+Residential building:House:484039:765517:365k:395k
+Residential building:House:484473:NA67D/159:430k:280k
+Residential building:House:485362:417092:850k:225k
+Residential building:House:487959:NA114C/407:525k:385k
+Residential building:House:494765:757815:825k:890k
+Residential building:House:Public House:502386:NA64A/758:1665k:735k
+Residential building:House:506172:NA86A/64:600k:500k
+Industrial building:517356:259289:23500k:6000k
+Industrial building:520456:53B/1080:510k:410k
+Residential building:House:520597:NA114C/408:525k:385k
+Industrial building:522978:259290:18500k:64000k
+Residential building:House:524054:NA92B/216:720k:455k
+Commercial building:Residential building:House:Public House:534385:NA109D/85:700k:300k
+Industrial building:538167:1814/60:890k:910k
+Industrial building:542146:NA77D/218:2175k:1825k
+Residential building:House:546763:NA67D/162:430k:280k
+Residential building:House:547741:NA30D/1303:365k:145k
+Residential building:House:Public House:551004:NA38D/1177:600k:350k
+Residential building:House:552195:NA110A/674:470k:630k
+Residential building:House:563774:765516:365k:395k
+Industrial building:565202:86D/834:8100k:3700k
+Commercial building:Residential building:House:566893:NA110C/470:730k:170k
+Commercial building:Residential building:House:568476:NA105B/957:730k:395k
+Residential building:House:568731:765521:365k:395k
+Residential building:House:568743:NA50A/1352:405k:285k
+Industrial building:570845:259288:11400k:0k
+Residential building:House:574472:NA110A/633:505k:305k
+Residential building:House:576866:338205:715k:329k
+Commercial building:Residential building:House:580144:546560:550k:145k
+Industrial building:584431:202649:13000k:1250k
+Residential building:House:584932:NA109C/730:730k:545k
+Industrial building:585241:1557/60:890k:1285k
+Residential building:House:586427:370557:1040k:340k
+477877:NA110C/473:000000010100:730k:485k:857:113:43:803:76:713:0:6:1:12
+Time taken by function: 2 seconds
